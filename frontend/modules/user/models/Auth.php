@@ -1,9 +1,9 @@
 <?php
 
-namespace frontend\models;
+namespace frontend\modules\user\models;
 
 use Yii;
-use common\models\User;
+use frontend\models\User;
 
 /**
  * This is the model class for table "auth".
